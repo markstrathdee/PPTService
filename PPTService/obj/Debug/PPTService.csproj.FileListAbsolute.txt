@@ -1,0 +1,6 @@
+Z:\Sherpa\Corporate\Development\Cascade\GitHub\verifyUser\PPTService\PPTService\bin\PPTService.dll.config
+Z:\Sherpa\Corporate\Development\Cascade\GitHub\verifyUser\PPTService\PPTService\bin\PPTService.dll
+Z:\Sherpa\Corporate\Development\Cascade\GitHub\verifyUser\PPTService\PPTService\bin\PPTService.pdb
+Z:\Sherpa\Corporate\Development\Cascade\GitHub\verifyUser\PPTService\PPTService\obj\Debug\PPTService.csproj.ResolveComReference.cache
+Z:\Sherpa\Corporate\Development\Cascade\GitHub\verifyUser\PPTService\PPTService\obj\Debug\PPTService.dll
+Z:\Sherpa\Corporate\Development\Cascade\GitHub\verifyUser\PPTService\PPTService\obj\Debug\PPTService.pdb

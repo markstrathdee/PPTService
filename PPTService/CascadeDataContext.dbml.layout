@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 20, 22" name="CascadeDataContext">
+  <DataContextMoniker Name="/CascadeDataContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ffa9a3a3-ebd5-4abb-9265-d2edd684d729" absoluteBounds="0.75, 0.75, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableAdmin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="701f0b39-4cf7-4213-89db-e7eff56b7e29" absoluteBounds="0.765, 1.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" absoluteBounds="6.25, 5.25, 2, 9.84755696614583">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c3fabf0c-44a6-4761-ad76-bd0315d8ff97" absoluteBounds="6.265, 5.71, 1.9700000000000002, 9.2875569661458321" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f1ba3d0-c8de-46a3-b39f-08bf04a38754" absoluteBounds="8.75, 12.75, 2, 4.0785139973958309">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableAsset" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b813c3a5-4004-4075-b64f-d7d6e918bd8c" absoluteBounds="8.765, 13.21, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d0a05def-10cf-4cb1-a242-7aa1933cf913" absoluteBounds="11.75, 15.75, 2, 6.0015283203125005">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableAssetTracking" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72a79996-e16f-4d23-8ec1-cb387b6791ef" absoluteBounds="11.765, 16.21, 1.9700000000000002, 5.4415283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cadaefe9-cefc-47ed-81ba-bce481d3c711" absoluteBounds="3.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableAssetType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fced1857-3bef-4f70-a8b7-0d3fe9cadbae" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dbd8a014-8d4c-4099-a7bd-177238a1965f" absoluteBounds="9, 9.25, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableAttendanceStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b05fc0aa-c6e9-4894-8f54-757ecba9d4c6" absoluteBounds="9.015, 9.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="960d92f7-f5b5-4723-ac6b-fef973211633" absoluteBounds="6.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableCDN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ba2d454-4eeb-4d29-99d3-826f2ec10629" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="09f7485b-6ab1-44e0-936a-2501e432aad5" absoluteBounds="0.75, 6.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableCustomer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b132e26a-0099-4c6a-9121-8085fd0ae024" absoluteBounds="0.765, 6.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e24e4be1-ce0b-4c40-85e6-93319904475d" absoluteBounds="9.75, 0.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableEncoderAsset" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ecfb953b-5d91-4dc7-902a-b00c140cdde0" absoluteBounds="9.765, 1.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2700c1ff-5ae3-4026-ab3a-f93fe6d2467b" absoluteBounds="14.5, 1.5, 2, 12.732078450520834">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableEvent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="419ac042-4e36-4507-a1e2-545b22fd12c5" absoluteBounds="14.515, 1.96, 1.9700000000000002, 12.172078450520832" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f1be46bd-6fb7-460a-b85e-aeb4b9f59e08" absoluteBounds="11.75, 7.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableEventStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f78f047-8c3b-4e63-ae02-a6c34f1a3920" absoluteBounds="11.765, 7.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3851ee9a-e44b-44b6-b856-a4dd94dbc8d3" absoluteBounds="11.75, 5.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableEventType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1279a6cc-db8f-4a74-9d71-b51a35b30421" absoluteBounds="11.765, 5.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ce6b9686-1c1d-49a2-81e1-eb9e0f7526f9" absoluteBounds="3.5, 5.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableGroup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c47eee02-dd78-42cc-ba2c-b007e6e76d9a" absoluteBounds="3.515, 6.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8617b47-aa8e-4381-b99e-2fd86d35c4af" absoluteBounds="14.75, 15.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableLiveStream" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e884e89d-d2d2-4d29-8344-455dcc24662a" absoluteBounds="14.765, 16.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="59056114-8197-44db-8960-724300633da9" absoluteBounds="0.75, 16.75, 2, 4.2708154296875023">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TablePoll" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d693860-6df7-47ae-b25d-748c7a302e16" absoluteBounds="0.765, 17.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2eb0dacb-3453-40fc-8e93-77bf4165dd09" absoluteBounds="3.75, 16.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TablePortal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="937ee084-9bc2-4a17-a73f-7d62cdc3676a" absoluteBounds="3.765, 17.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="37f1c98f-9a34-4c6a-bc21-98350a760a03" absoluteBounds="3.5, 14.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableProfile" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c2334c9-0c4a-4968-9271-d8f4c2e5db8b" absoluteBounds="3.515, 14.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eb9a7def-b78a-42e8-9ee8-e9073e17507e" absoluteBounds="17.75, 0.75, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableQuestion" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bd5cae69-6084-41cd-b931-f419269409a1" absoluteBounds="17.765, 1.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9eb97e47-6dc1-453c-b12e-e4af4600df49" absoluteBounds="3.5, 12.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e530daa-9bdb-4eb4-8fc3-f89f9c8f751d" absoluteBounds="3.515, 12.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="583e0e55-9948-4184-a3ae-43234f2b273b" absoluteBounds="3.5, 9.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableSkin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7b381534-8134-4f2d-b5b1-a8774d5dc660" absoluteBounds="3.515, 9.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66522992-1dd5-49e4-83d7-b00a754d58a8" absoluteBounds="17.75, 5.75, 2, 4.2708154296874987">
+      <DataClassMoniker Name="/CascadeDataContextDataContext/TableSyncEvent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5d1834bb-c3b5-45e7-b087-2e6de3d83706" absoluteBounds="17.765, 6.21, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 10.1354484049479); (9 : 10.1354484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableUser/TableUser_TableAttendanceStatus" />
+      <nodes>
+        <classShapeMoniker Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" />
+        <classShapeMoniker Id="dbd8a014-8d4c-4099-a7bd-177238a1965f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 7.84699625651042); (14.5 : 7.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableEventStatus/TableEventStatus_TableEvent" />
+      <nodes>
+        <classShapeMoniker Id="f1be46bd-6fb7-460a-b85e-aeb4b9f59e08" />
+        <classShapeMoniker Id="2700c1ff-5ae3-4026-ab3a-f93fe6d2467b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.75 : 5.84699625651042); (14.5 : 5.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableEventType/TableEventType_TableEvent" />
+      <nodes>
+        <classShapeMoniker Id="3851ee9a-e44b-44b6-b856-a4dd94dbc8d3" />
+        <classShapeMoniker Id="2700c1ff-5ae3-4026-ab3a-f93fe6d2467b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.01044840494792); (3.5 : 7.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableCustomer/TableCustomer_TableGroup" />
+      <nodes>
+        <classShapeMoniker Id="09f7485b-6ab1-44e0-936a-2501e432aad5" />
+        <classShapeMoniker Id="ce6b9686-1c1d-49a2-81e1-eb9e0f7526f9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.25 : 6.63544840494792); (5.5 : 6.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableUser/TableUser_TableGroup" />
+      <nodes>
+        <classShapeMoniker Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" />
+        <classShapeMoniker Id="ce6b9686-1c1d-49a2-81e1-eb9e0f7526f9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 14.7362784830729); (6.25 : 14.7362784830729)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableProfile/TableProfile_TableUser" />
+      <nodes>
+        <classShapeMoniker Id="37f1c98f-9a34-4c6a-bc21-98350a760a03" />
+        <classShapeMoniker Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.9719962565104); (6.25 : 12.9719962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableRole/TableRole_TableUser" />
+      <nodes>
+        <classShapeMoniker Id="9eb97e47-6dc1-453c-b12e-e4af4600df49" />
+        <classShapeMoniker Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.2027498372396); (6.25 : 10.2027498372396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableSkin/TableSkin_TableUser" />
+      <nodes>
+        <classShapeMoniker Id="583e0e55-9948-4184-a3ae-43234f2b273b" />
+        <classShapeMoniker Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.60137491861979); (6.25 : 9.60137491861979)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableSkin/TableSkin_TableUser1" />
+      <nodes>
+        <classShapeMoniker Id="583e0e55-9948-4184-a3ae-43234f2b273b" />
+        <classShapeMoniker Id="146ccd7e-a0ff-4b53-b24d-744505eb5570" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 8.65549967447917); (1.75 : 10.2027498372396); (3.5 : 10.2027498372396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CascadeDataContextDataContext/TableCustomer/TableCustomer_TableSkin" />
+      <nodes>
+        <classShapeMoniker Id="09f7485b-6ab1-44e0-936a-2501e432aad5" />
+        <classShapeMoniker Id="583e0e55-9948-4184-a3ae-43234f2b273b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
