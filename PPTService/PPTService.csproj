@@ -85,6 +85,7 @@
     </Compile>
     <Compile Include="PPTService.asmx.cs">
       <DependentUpon>PPTService.asmx</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -48,7 +48,8 @@ namespace PPTService
 
             var pres = app.Presentations;
 
-            var file = pres.Open(@"C:\presentation1.ppt", MsoTriState.msoTrue, MsoTriState.msoTrue, MsoTriState.msoFalse);
+            //var file = pres.Open(@"C:\presentation1.ppt", MsoTriState.msoTrue, MsoTriState.msoTrue, MsoTriState.msoFalse);
+            var file = pres.Open(@"C:\presentation1.ppt");
 
             file.SaveCopyAs(@"C:\Users\Mark C Strathdee\Desktop\presentation1.jpg", Microsoft.Office.Interop.PowerPoint.PpSaveAsFileType.ppSaveAsJPG, MsoTriState.msoTrue);
 
